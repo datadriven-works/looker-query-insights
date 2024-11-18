@@ -4,3 +4,7 @@ dist
 .cache
 .vscode
 .env
+
+.terraform*
+terraform.tfstate*
+*.tfstate
